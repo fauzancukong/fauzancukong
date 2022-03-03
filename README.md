@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fauzancukong
+- 👋 Hi, I’m Fauzan Madani
 - 👀 I’m interested in Data Science and Business Analytics
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on further projects
